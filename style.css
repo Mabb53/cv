@@ -1,0 +1,33 @@
+/*Comentarios en CSS*/
+
+/*Selector de etiqueta*/
+body{
+    background-color:rgb(187, 182, 182)
+ 
+}
+
+h2{font-size:xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    color:blueviolet;
+}
+
+h3{
+    color:blue;
+}
+p{ color: brown;
+    font-style: italic;
+    line-height: normal;
+}
+p{ text-align: justify;
+    background-color: bisque;
+} 
+
+/*Selector de tipo ID*/
+
+#hab{
+    color:red;
+}
+
+#email{
+    color:green;
+}
