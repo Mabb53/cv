@@ -1,0 +1,22 @@
+.encabezado {
+    align-items: center;
+    padding: 2%;
+    display: flex;
+}
+
+.boton{
+   font-size: 95%;
+   font-weight: bold;
+    margin: 2%;
+    width: 8%;
+    
+    
+}
+
+.mostrar {
+        display:flex
+}
+
+.galeria{
+    border-radius: 5%;
+}
